@@ -1,0 +1,28 @@
+[
+    {
+        "action": "Not specified",
+        "method": "Not specified",
+        "inputs": [
+            {
+                "field_name": "username",
+                "input_type": "text",
+                "default_value": "No default value"
+            },
+            {
+                "field_name": "password",
+                "input_type": "password",
+                "default_value": "No default value"
+            },
+            {
+                "field_name": "terms",
+                "input_type": "checkbox",
+                "default_value": "No default value"
+            },
+            {
+                "field_name": "No name attribute",
+                "input_type": "submit",
+                "default_value": "Submit"
+            }
+        ]
+    }
+]
